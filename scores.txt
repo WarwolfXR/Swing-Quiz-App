@@ -1,2 +1,4 @@
 AlphaGamer,4
 BetaGamer,7
+AlphaGamer2,10
+BetaGamer2,8
