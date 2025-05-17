@@ -1,0 +1,2 @@
+AlphaGamer,4
+BetaGamer,7
